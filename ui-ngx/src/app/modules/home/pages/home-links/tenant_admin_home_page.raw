@@ -96,7 +96,7 @@
                   "name": "transportMsgCountHourly",
                   "type": "timeseries",
                   "label": "{i18n:widgets.transport-messages.title}",
-                  "color": "#305680",
+                  "color": "#3b3b3b",
                   "settings": {},
                   "_hash": 0.2880464219129071,
                   "aggregationType": null,
@@ -311,7 +311,7 @@
                   "name": "activeDevicesCountHourly",
                   "type": "timeseries",
                   "label": "{i18n:device.devices}",
-                  "color": "#305680",
+                  "color": "#3b3b3b",
                   "settings": {
                     "hideDataByDefault": false,
                     "disableDataHiding": false,
